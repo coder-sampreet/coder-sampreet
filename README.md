@@ -12,7 +12,7 @@ I have strong foundation in **JAVA**, **C++** and **Python** Programming along w
 ### 🌟 Featured Projects
 Here are a few highlighted projects I'm actively working on:
 1. **Personal Website**  
-   Visit my website [**portfolio**](sampreet.vercel.app) for a more detailed look at my projects, skills, and portfolio.
+   Visit my website [**portfolio**](https://sampreet.vercel.app/) for a more detailed look at my projects, skills, and portfolio.
 
 ### 💡 Skills
 - **Languages**: TypeScript, JavaScript, Solidity, Rust, SQL, Java, C++, Python, HTML, CSS
@@ -29,7 +29,7 @@ Here are a few highlighted projects I'm actively working on:
 - **Explore AI/ML Applications**: Enhance my projects with artificial intelligence and machine learning capabilities.
 
 ### 📫 Connect with Me
-- **LinkedIn**: [Sampreet Mandal](www.linkedin.com/in/sampreet-mandal-3676172aa)
+- **LinkedIn**: [Sampreet Mandal](https://www.linkedin.com/in/sampreet-mandal-3676172aa/)
 - **Email**: [sampreetmandal9@gmail.com](sampreetmandal9@gmail.com)
 
 Thanks for stopping by! Let's build something awesome together. 🌟
