@@ -31,5 +31,6 @@ Here are a few highlighted projects I'm actively working on:
 ### 📫 Connect with Me
 - **LinkedIn**: [Sampreet Mandal](https://www.linkedin.com/in/sampreet-mandal-3676172aa/)
 - **Email**: [sampreetmandal9@gmail.com](mailto:sampreetmandal9@gmail.com)
+- **Leet code**: [Sampreet Mandal]https://leetcode.com/u/sampreet02/
 
 Thanks for stopping by! Let's build something awesome together. 🌟
