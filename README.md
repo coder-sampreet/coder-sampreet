@@ -6,7 +6,7 @@ I have strong foundation in **JAVA** Programming along with **Data Structure and
 - **Frontend Development**: Creating visually engaging and accessible interfaces.
 - **Backend Development**: Building robust and scalable server-side applications.
 - **DevOps**: Streamlining CI/CD processes and optimizing deployment workflows.
-- **Web3**: Learning and experimenting with **Bloack Chain** and various aspect of decentralized technologies.
+- **Web3**: Learning and experimenting with **Block Chain** and various aspect of decentralized technologies.
 
 ### 🌟 Featured Projects
 Here are a few highlighted projects I'm actively working on:
